@@ -2,6 +2,8 @@
 Base de datos relacional para gestionar inventario de productos, proveedores y movimientos de stock de forma eficiente y segura.
 
 ## Playlist
+[Sistema de Gestión de Inventario para una PyME: Playlist](https://www.youtube.com/playlist?list=PLf03vPJLEOIWIBSw8-gBftN8FZsCcZZ-a) 
+
 ## Sesión de videos
 [Sistema de Gestión de Inventario para una PyME: Playlist](https://www.youtube.com/playlist?list=PLf03vPJLEOIWIBSw8-gBftN8FZsCcZZ-a) 
 
